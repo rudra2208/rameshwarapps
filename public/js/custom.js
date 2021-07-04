@@ -9,6 +9,13 @@ $(document).ready(function() {
 				'navigation': true,
 				'navigationPosition': 'right',
 			});
+
+			$('#send').click(function(){
+
+				
+
+				//alert("hi there" +$ ('#name').val() + "\nyour email address is" + $('#email').val() + "\nyour entered message is" + $('#message').val())
+			})
 		});
 
 // wow
